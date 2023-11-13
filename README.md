@@ -17,7 +17,7 @@ This is a Spring Boot CRUD application for managing student schedules and grades
    - [Install MySQL](https://dev.mysql.com/downloads/installer/)
 2. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-repository/spring-boot-crud.git
+    git clone [https://github.com/your-repository/spring-boot-crud.git](https://github.com/Tunahaha/Base_REST.git)
     ```
 3. Switch to the directory of the repository you just cloned:
     ```
