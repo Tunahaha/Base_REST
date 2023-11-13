@@ -21,7 +21,7 @@ This is a Spring Boot CRUD application for managing student schedules and grades
     ```
 3. Switch to the directory of the repository you just cloned:
     ```
-    cd spring-boot-crud
+    cd Base_REST
     ```
 4. Run the application using Gradle:
     ```
